@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098536031669",
+    "project_id": "cogent-elevator-333304",
+    "storage_bucket": "cogent-elevator-333304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098536031669:android:ef3560aecc8fcb97cb35fc",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098536031669-4ojbvc7p52odgk49ges1vh4u7nujprsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4MMDwzeZtWpC544K4wopnJ-UB7YthjPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098536031669-4ojbvc7p52odgk49ges1vh4u7nujprsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
